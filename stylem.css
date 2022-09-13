@@ -101,6 +101,7 @@ h4{
 .jumbo img{
     border: #303330 3px solid;
     height: 515px;
+    margin-top: 5px;
 }
 
 .in{
@@ -110,4 +111,16 @@ h4{
 
 .slide{
     padding: 0 85px 6px;
+}
+
+.content{
+    padding: 58px;
+    background-color: #212429;
+}
+
+.content article{
+    color: #f6f6f6;
+    margin: 48px;
+    display: inline-block;
+    max-width: 25%;
 }
