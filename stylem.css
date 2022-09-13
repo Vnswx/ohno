@@ -63,3 +63,51 @@ a:hover{
 .h5{
     line-height: 25px;
 }
+
+main{
+    margin-top: 25px;
+    height: fit-content;
+    background-color: #f6f6f6;
+}
+
+.sr h4{
+    margin: 15px auto;
+    border-bottom: #6349ea 3px solid;
+    max-width: 214px;
+    text-align: center;
+}
+
+h4{
+    font-weight: bolder;
+    font-size: 23px;
+}
+
+.row{
+    width: 600px;
+    margin: 10px 0;
+}
+
+.row img{
+    width: 250px;
+    border: #303330 3px solid;
+    margin: 0 5px;
+}
+
+.jumbo{
+    margin: 5px 0;
+    float: right;
+}
+
+.jumbo img{
+    border: #303330 3px solid;
+    height: 515px;
+}
+
+.in{
+    display: inline-block;
+    width: 500px;
+}
+
+.slide{
+    padding: 0 85px 6px;
+}
