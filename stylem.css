@@ -1,6 +1,6 @@
 @font-face{
     font-family: quicksand;
-    src: url();
+    src: url(quicksand-v30-latin-regular.woff);
 }
 
 *{
@@ -43,8 +43,23 @@ nav{
 a{
     color: #f6f6f6;
     text-decoration: none;
+    padding: 15px;
 }
 
 a:hover{
     background-color: #6e49ea;
+}
+
+.hero{
+    text-align: center;
+    width: 45%;
+    margin: 30px auto;
+}
+
+.h1{
+    margin-bottom: 10px;
+}
+
+.h5{
+    line-height: 25px;
 }
